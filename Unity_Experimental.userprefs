@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FloatingPlayer2DController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt">
     <Files>
-      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="17" Column="34" />
-      <File FileName="Assets\FloatingPlayer2DController.cs" Line="25" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="28" Column="40" />
+      <File FileName="Assets\FloatingPlayer2DController.cs" Line="17" Column="23" />
       <File FileName="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" Line="18" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
